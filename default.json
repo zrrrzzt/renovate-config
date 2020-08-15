@@ -1,0 +1,10 @@
+{
+  "extends": ["config:base"],
+  "devDependencies": {
+    "automerge": true
+  },
+  "separateMultipleMajor": true,
+  "ignoreUnstable": true,
+  "labels": ["dependencies"],
+  "assignees": ["zrrrzzt"]
+}
